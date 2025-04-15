@@ -54,7 +54,7 @@ npm run dev
 
 ## 📚 About
 
-This is a learning project made by **[Kshitij Garg](https://www.linkedin.com/in/kshitij-garg/)**.  
+This is a learning project made by **[Kshitij Garg](https://www.linkedin.com/in/kshitij-grg/)**.  
 The goal is to build a helpful tool for visual learners and DSA enthusiasts who want to **see** how algorithms work — not just read about them.
 
 Feel free to explore the project, suggest features, or contribute!
